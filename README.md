@@ -1,20 +1,37 @@
-Tic - Tac - Toe
+# 🧠 Tic-Tac-Toe Game
 
+A classic **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. This project demonstrates fundamental front-end development skills such as DOM manipulation, event handling, and game state management.
 
-Overview:
+---
 
-          classic Tic-Tac-Toe game, demonstrating your understanding of fundamental programming concepts and user interface design. 
-          This project serves as a great portfolio piece showcasing your coding skills, creativity, and ability to develop a fully functional game application.
+## 🎮 Overview
 
-Features:
+This is a simple yet fully functional two-player Tic-Tac-Toe game designed for web browsers. It features intuitive gameplay, win/draw detection, and a reset option to play multiple rounds. It serves as a strong portfolio piece to showcase your ability to build interactive, logic-based UI applications.
 
-            User Interface: A clean, intuitive interface that allows two players to engage in the game seamlessly.
-            Game Logic:  Logic to handle all possible game scenarios, including winning, losing, and draw conditions.
-            Interactive Experience: Real-time updates and responsiveness to player actions, ensuring an engaging experience.
-            Reset Option: Ability to reset the game and play multiple rounds without restarting the application.
+---
 
+## 🚀 Features
 
-Programming Language: 
-HTML, CSS and JavaScript
+- ✅ **User Interface**: Clean and intuitive layout built with HTML and CSS.
+- ⚡ **Game Logic**: Handles player turns, win conditions, draw detection.
+- 🔁 **Reset Option**: Allows players to restart the game anytime.
+- 📱 **Responsive Design**: Works well across different screen sizes.
+- 🎯 **No External Libraries**: Built with pure HTML, CSS, and JavaScript.
 
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structuring the game board and elements.
+- **CSS3** – Styling the board and interactive elements.
+- **JavaScript (ES6)** – Implementing the full game logic and UI behavior.
+
+---
+
+## 📁 File Structure
+
+tic-tac-toe/
+├── index.html # Game layout
+├── style.css # Styling and visuals
+└── script.js # Game logic and interactivity
 
